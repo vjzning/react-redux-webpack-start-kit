@@ -40,5 +40,4 @@ export function load() {
   }
 }
 export function login() {
-  
 }
